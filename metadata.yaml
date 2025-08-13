@@ -2,8 +2,8 @@ homepage: "www.mirkorodriguez.com"
 documentation: "TBD"
 versions:
   # Latest version
-- sha: eb083ef79c3356d609c9bc63441231f4860bc985
+- sha: a5f5e954fd36642a41964fed3fe698e766050434
   changeNotes: Add support for Pinterest events.
   # Older versions
-- sha: 50b2dae74cbe17db80beddf35c1082dc24e95310
+- sha: 80d39bf23605020bf536958aeebdb483a63d77b3
   changeNotes: First version.
